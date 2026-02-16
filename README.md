@@ -18,7 +18,7 @@ Elite-Squad-Optimizer is a Python-based prescriptive analytics pipeline designed
 The pipeline integrates automated ETL processes via Google Colab, high-performance data warehousing in Google BigQuery, and a Mixed-Integer Programming (MIP) solver using the Gurobi Optimizer. The final output is an interactive Streamlit application that allows scouts to adjust tactical formations and performance weights dynamically.
 
 ## Features
-Advanced ETL & Data Cleansing: Implement automated deduplication and normalization of player stats across disparate API sources and Transfermarkt data.
+ETL & Data Cleansing: Implement automated deduplication and normalization of player stats across disparate API sources and Transfermarkt data.
 
 Position-Specific Scoring: Support custom SQL-based performance logic that weights metrics (Expected Goals, Interceptions, Key Passes) differently based on the player's tactical role.
 
@@ -72,6 +72,8 @@ Tactical Efficiency: The optimization engine successfully handles datasets of 1,
 Position Weighting Impact: The diagnostic analysis shows that shifting "Defense Focus" multipliers from 1.0 to 1.5 dynamically replaces high-scoring offensive full-backs with statistically superior defensive stoppers, validating the sensitivity of the prescriptive model.
 
 ## Reference
-[1] Bertsimas, D., & Freund, R. (2004). Data, Models, and Decisions: The Fundamentals of Management Science.
 
 [2] Gurobi Optimization, LLC. (2024). Gurobi Optimizer Reference Manual.
+
+## Observations
+"This project is for educational purposes only. Player data is sourced from public datasets (Kaggle/Football-Data.org) and is used for non-commercial statistical analysis. No official logos or trademarks are used."
