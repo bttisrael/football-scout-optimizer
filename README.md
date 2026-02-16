@@ -1,5 +1,14 @@
 # Elite Squad Optimizer: A Prescriptive Analytics Pipeline for Football Scouting
-<img width="100%" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/57f6d634-9c04-4536-81c8-3783a69a234f" />
+<img width="1899" height="751" alt="image" src="https://github.com/user-attachments/assets/91055219-c0a6-46c5-b21e-50c5e9b12730" />
+
+
+
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![BigQuery](https://img.shields.io/badge/BigQuery-SQL-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Gurobi](https://img.shields.io/badge/Gurobi-Optimization-007f00?style=flat&logo=gurobi&logoColor=white)](https://www.gurobi.com/)
+[![Google Colab](https://img.shields.io/badge/Colab-Notebook-F9AB00?style=flat&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 
 ## Introduction
 Elite-Squad-Optimizer is a Python-based prescriptive analytics pipeline designed to solve the "Ideal Starting XI" selection problem. By combining real-time performance data with market values, the project utilizes Mathematical Programming (Linear Programming) to maximize team quality under strict financial and tactical constraints.
