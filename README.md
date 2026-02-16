@@ -2,7 +2,7 @@
 <img width="1899" height="812" alt="image" src="https://github.com/user-attachments/assets/50fdba41-6502-4d87-aa39-c331109b6dbd" />
 
 
-
+https://football-scout-optimizer-mh6nvte9ucnyz3kw8sreng.streamlit.app/
 
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
