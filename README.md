@@ -1,5 +1,6 @@
 # Elite Squad Optimizer: A Prescriptive Analytics Pipeline for Football Scouting
-<img width="1914" height="799" alt="image" src="https://github.com/user-attachments/assets/309adb63-0301-4c5e-90fc-4f8f7b51ded1" />
+<img width="1899" height="812" alt="image" src="https://github.com/user-attachments/assets/50fdba41-6502-4d87-aa39-c331109b6dbd" />
+
 
 
 
