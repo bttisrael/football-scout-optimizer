@@ -3,3 +3,4 @@ pandas
 google-cloud-bigquery
 gurobipy
 plotly
+db-dtypes
