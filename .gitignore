@@ -1,0 +1,11 @@
+# Google Cloud Credentials (MOST IMPORTANT)
+otimizador-cargas-79af1f710cb3.json
+
+# Python environment and cache
+__pycache__/
+.env
+venv/
+.pytest_cache/
+
+# Streamlit local config
+.streamlit/config.toml
