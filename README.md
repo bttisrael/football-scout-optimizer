@@ -2,6 +2,8 @@
 <img width="1899" height="812" alt="image" src="https://github.com/user-attachments/assets/50fdba41-6502-4d87-aa39-c331109b6dbd" />
 
 
+
+# You can acess the live app on this link:
 https://football-scout-optimizer-mh6nvte9ucnyz3kw8sreng.streamlit.app/
 
 
