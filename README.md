@@ -17,6 +17,19 @@ Elite-Squad-Optimizer is a Python-based prescriptive analytics pipeline designed
 
 The pipeline integrates automated ETL processes via Google Colab, high-performance data warehousing in Google BigQuery, and a Mixed-Integer Programming (MIP) solver using the Gurobi Optimizer. The final output is an interactive Streamlit application that allows scouts to adjust tactical formations and performance weights dynamically.
 
+## Setup Instructions
+
+This project integrates Python with Google BigQuery and the Gurobi Optimizer.
+
+### BigQuery Integration
+1. Create a project on [Google Cloud Console](https://console.cloud.google.com/).
+2. Enable the BigQuery API.
+3. Create a Service Account and download the JSON credentials key.
+4. Rename the key to your preferred name and update the `JSON_KEY_FILE` variable in `main.py`.
+
+### Data Pipeline
+The initial ETL process (API/Kaggle -> BigQuery) is documented in the provided Jupyter Notebook: `football_optimizer.ipynb`.
+
 ## Features
 ETL & Data Cleansing: Implement automated deduplication and normalization of player stats across disparate API sources and Transfermarkt data.
 
